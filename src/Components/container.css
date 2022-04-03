@@ -1,0 +1,17 @@
+.container {
+  border: 1px solid gray;
+  width: 70%;
+  margin: auto;
+}
+th {
+  width: 25%;
+}
+.head-div {
+  width: 70%;
+  margin-left: 35%;
+}
+.head {
+  width: 200px;
+  border: 1px solid;
+  /* margin-left: 100px; */
+}
